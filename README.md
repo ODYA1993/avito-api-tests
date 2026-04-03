@@ -9,7 +9,7 @@
 
 #### Клонировать репозиторий
 ```bash
-git clone <url>
+git clone (https://github.com/ODYA1993/avito-api-tests.git)
 ````
 #### Установить зависимости
 ```bash
